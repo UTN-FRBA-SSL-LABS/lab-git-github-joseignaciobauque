@@ -687,7 +687,7 @@ RESPUESTA_P7=c
 ### Checklist
 
 - [✓] `feature/mi-funcion` mergeada a `main` vía PR
-- [✓] PR del compañero revisado, aprobado y mergeado
+- [ ] PR del compañero revisado, aprobado y mergeado
 - [ ] Commit `wip: experimento roto` y su revert en el historial
 - [ ] Conflicto de `esPar` resuelto en `main`
 - [✓] Preguntas P1–P7 respondidas en este archivo
