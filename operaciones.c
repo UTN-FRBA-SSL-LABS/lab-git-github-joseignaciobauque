@@ -12,7 +12,7 @@ int restar(int a, int b) {
     return a - b;
 }
 
-/*Ahora, la funcion multiplicar, multiplica dos enteros: Ahora utilizamos el asterisco para que se haga el calculo*/
+/*Ahora utilizamos el asterisco para que se haga el calculo*/
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
 int multiplicar(const a, const b) {
